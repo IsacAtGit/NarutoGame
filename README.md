@@ -1,9 +1,9 @@
 
 # Its a learning of class,object,constructors in javascript. Reference from chris courses
-# chris course game
+# chris course game UI
 ![Screenshot (136)](https://github.com/IsacAtGit/NarutoGame/assets/138292834/1ee581ed-fb67-4867-8f7d-604c35ab3be6)
 
-# my game
+# my game UI
 ![Screenshot (137)](https://github.com/IsacAtGit/NarutoGame/assets/138292834/2a3887c4-b34b-4183-bcb1-5197863ac409)
 # Game Live Link - https://narutovssasukegame.netlify.app
 - PLAYER 1 Naruto
