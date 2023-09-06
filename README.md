@@ -1,10 +1,12 @@
 
 # Its a learning of class,object,constructors in javascript. Reference from chris courses
 # chris course game UI
-![Screenshot (136)](https://github.com/IsacAtGit/NarutoGame/assets/138292834/1ee581ed-fb67-4867-8f7d-604c35ab3be6)
+![Screenshot (136)](https://github.com/IsacAtGit/NarutoGame/assets/138292834/1f7ae9f9-3268-4cd3-9c87-de608a1f341d)
+
 
 # my game UI
-![Screenshot (137)](https://github.com/IsacAtGit/NarutoGame/assets/138292834/2a3887c4-b34b-4183-bcb1-5197863ac409)
+![Screenshot (135)](https://github.com/IsacAtGit/NarutoGame/assets/138292834/a2103d72-6e35-4b0d-bf90-7b58d7dd16d4)
+
 # Game Live Link - https://narutovssasukegame.netlify.app
 - PLAYER 1 Naruto
 - W-jump
